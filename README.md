@@ -1,5 +1,5 @@
 # Lenovo ThinkCentre M910s with RX 550 4GB Lexa Core | Hackintosh OpenCore
-[![H](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")
+[![](https://github.com/anggamdev/m910s-rx550-lexa/blob/main/Lenovo%20ThinkCentre%20M910s.jpg)](http:https://github.com/anggamdev/m910s-rx550-lexa/blob/main/Lenovo%20ThinkCentre%20M910s.jpg//)
 ### EFI [Lenovo Thinkcentre M910s](https://www.lenovo.com/id/in/desktops/thinkcentre/m-series-sff/ThinkCentre-M910s/p/11TC1MD910S?)
 
 ### Boot :
@@ -20,7 +20,13 @@
 - OS Monterey 12.7.2 (21G1974)
 - [Installer Olarila](https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
 
-[![I](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Screen%20Shot%202024-01-29%20at%2020.50.42.png?raw=true "I")](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Screen%20Shot%202024-01-29%20at%2020.50.42.png?raw=true "I")
+[![](https://github.com/anggamdev/m910s-rx550-lexa/blob/main/About.png)](htthttps://github.com/anggamdev/m910s-rx550-lexa/blob/main/About.png)
+
+[![](https://github.com/anggamdev/m910s-rx550-lexa/blob/main/rx550%20.png)](https://github.com/anggamdev/m910s-rx550-lexa/blob/main/rx550%20.png)
+
+
+
+
 
 ### Work :
 - QE/CI of RX 550 4GB GDDR5 (Lexa Core)
@@ -34,13 +40,15 @@
 - Etc
 
 ### Not Work :-(
-- Wake from Sleep (Common problem for Skylake Desktop without dGPU)
-- Display Port 
+
 - Etc
 
 ### [Download EFI](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/releases/tag/OC.0.9.7.Themes) 
 
-### Bios Setting :
+## Note :
+- Please Generate SMBIOS with Tutorial [https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#imac](http:https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#imac// "https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#imac")
+
+### Bios Setting : 
 
 - Please see [Bios Setting Lenovo M910s](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/commit/c6162791a509a7d4de7c602fda5e07d27f821516 "Bios Setting Lenovo M910s") folder
 
