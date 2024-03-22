@@ -43,7 +43,7 @@
 
 - Etc
 
-### [Download EFI](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/releases/tag/OC.0.9.7.Themes) 
+### [Download EFI](https://github.com/anggamdev/m910s-rx550-lexa/releases/tag/0.1) 
 
 ## Note :
 - Please Generate SMBIOS with Tutorial [https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#imac](http:https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#imac// "https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#imac")
