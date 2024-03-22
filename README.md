@@ -12,8 +12,8 @@
 - Processor Intel® Core™ i3 - 7100 Kabylake
 - eGPU DELL RX 550 4GB GDDR5 (Lexa Core)
 - Storage : M.2 NVME ADATA 256GB
-- Storage : Hardisk Seagate 1TB 
-- RAM : Micron 2x8GB DDR4 2400MHz
+- Storage : Hardisk 2.5 Seagate 1TB 
+- RAM : Micron 2x8GB DDR4 2133MHz
 - Audio: Realtek ALC662
 - Ethernet Card: Intel L219-LM
 - Bootloader OpenCore 0.9.7
