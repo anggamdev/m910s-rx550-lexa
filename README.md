@@ -31,17 +31,18 @@
 ### Work :
 - QE/CI of RX 550 4GB GDDR5 (Lexa Core)
 - Restart and Shutdown
+- Sleep and Wake
 - CPU Power Management
 - Ethernet
 - Audio Jack and Internal Mic (Front & Rear)
-- Display Output : VGA / d-Sub
+- Display Output : Display Port
 - Brightness : use [Monitor Control](https://github.com/MonitorControl/MonitorControl#readme "Monitor Control")
 - All USB Ports
 - Etc
 
 ### Not Work :-(
 
-- Etc
+- Mini Display Port (not tested)
 
 ### [Download EFI](https://github.com/anggamdev/m910s-rx550-lexa/releases/tag/0.1) 
 
